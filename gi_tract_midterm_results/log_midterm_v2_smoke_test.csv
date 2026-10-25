@@ -1,0 +1,2 @@
+epoch,train_loss,dice_all_mean,dice_present_mean,dice_present_large_bowel,dice_present_small_bowel,dice_present_stomach
+1,1.543662416934967,0.001178676844574511,0.006231371778994799,0.0004195083165541291,,0.012043234892189503

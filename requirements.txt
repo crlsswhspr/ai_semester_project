@@ -1,0 +1,9 @@
+kaggle
+segmentation-models-pytorch
+albumentations
+scipy
+scikit-learn
+pandas
+numpy
+opencv-python-headless
+matplotlib
